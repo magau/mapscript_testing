@@ -19,3 +19,8 @@ localhost/ms-wsgi?service=WMS&version=1.3.0&request=GetMap
 
 For that default request parameters were here given...
 
+
+In future:
+Implementation of a WFS with NetCDF file format: 
+(https://www.nodc.noaa.gov/data/formats/netcdf/v2.0/)
+
